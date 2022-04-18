@@ -1,4 +1,4 @@
-Hi 👋 My name is Berkay Koçyiğit
+Hi 👋 My name is Berkay
 ================================
 
 Embedded System Engineer

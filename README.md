@@ -6,7 +6,7 @@ Embedded System Engineer
 
 Hi, I have written ARM ESP Pic-based projects with C for about 5 years and designed the circuits of the projects that the projects will work in the proteus environment. After starting the work, I started to interesting in computer sciences and started to develop various mini PC-based, PC-based and mobile-based applications with frameworks, learned the basic level of SQL database systems. I'm closely related to the Linux operating system with Mini PCs. For my projects I have developed with the Mini PC, I have to connect with the external world (Button, Rotary Encoder ...) I usually use Cross Compile and debuggers.
 
-* 🌍  I'm based in Konya
+* 🌍  I'm based in Ankara
 * ✉️  You can contact me at [bkcyigit@gmail.com](mailto:bkcyigit@gmail.com)
 * 🧠  I'm learning Qt/Qml
 

@@ -8,7 +8,6 @@ Hi, I have written ARM ESP Pic-based projects with C for about 5 years and desig
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [bkcyigit@gmail.com](mailto:bkcyigit@gmail.com)
-* 🧠  I'm learning Qt/Qml
 
 ### Skills
 
